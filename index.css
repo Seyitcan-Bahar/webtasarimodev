@@ -1,0 +1,187 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap'); 
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    width: 100%;
+    height: 100%;
+    font-size: 16px;
+    font-family:  "Roboto Condensed", serif;
+    background-color: #FF8C00;
+    color: #fff;
+}
+
+/* NAVBAR */
+
+.nav-menu{
+    min-width: 100%;
+    background-color: #000000;
+    height: 70px;
+
+}
+
+.menu {
+    display: flex;
+
+    justify-content: center;
+
+    align-items: center;
+    
+    height: 70px; 
+
+    gap: 40px; 
+}
+
+.menu .menu-item {
+    list-style-type: none;
+   
+    padding: 10px;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}
+
+.menu .menu-item:hover {
+    background-color: rgb(68, 68, 122);
+}
+.menu .menu-item a{
+    text-decoration: none; 
+    color: #fff;
+}
+
+/* Section */
+
+h1{
+    text-align: center;
+    margin-top: 50px;
+    font-size: 40px;
+}
+
+h5{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+    margin-top: 40px;
+}
+.köfte{
+    width: 400px;
+    height: 400px;
+}
+
+.sucuk{
+    width: 400px;
+    height: 400px;
+}
+
+.tatlı{
+    width: 400px;
+    height: 400px;
+}
+
+.hamburger{
+    width: 400px;
+    height: 400px;
+}
+
+.meze{
+    width: 400px;
+    height: 400px;
+}
+
+.içecek{
+    width: 400px;
+    height: 400px;
+}
+
+.Lezzetlerimiz{
+    font-size: 30px;
+}
+
+.lezzetlerimiz{
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    margin-top: 40px;
+    text-align: center;
+    font-size: 17px;
+}
+
+.lezzetlerimiz img {
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+.yorumlar{
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+}
+
+.yorum{
+    height: 200px;
+    background-color: black;
+    color: #fff;
+    border-radius: 7px;
+    -webkit-border-radius: 7px;
+    -moz-border-radius: 7px;
+    -ms-border-radius: 7px;
+    -o-border-radius: 7px;
+    display: flex;
+
+    justify-content: center;
+
+    align-items: center;
+
+}
+
+#isim{
+    color: rgb(255, 163, 34);
+    padding-left: 20px;
+}
+
+.yorum p{
+    padding-right: 20px;
+}
+
+.Müşteri_Yorumları{
+    margin-bottom: 20px;
+}
+
+#yorum3{
+    margin-right: 20px;
+}
+
+#yorum1{
+    margin-left: 20px;
+}
+
+#yorum2{
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-bottom: 20px;
+}
+
+
+footer{
+    background-color: #000000d5;
+    color: #fff;
+
+    text-align: center;
+    
+    height: 50px;
+    padding-top:25px ;
+    margin-bottom: 0px;
+    width: 100%;
+   
+}
+

@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap'); 
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    width: 100%;
+    height: 100%;
+    font-size: 16px;
+    font-family:  "Roboto Condensed", serif;
+    background-color: #fff;
+    color: #000000;
+}
+
+/* NAVBAR */
+
+.nav-menu{
+    min-width: 100%;
+    background-color: #000000;
+    height: 70px;
+    
+}
+
+.menu {
+    display: flex;
+
+    justify-content: center;
+
+    align-items: center;
+    
+    height: 70px; 
+
+    gap: 40px; 
+}
+
+.menu .menu-item {
+    list-style-type: none;
+   
+    padding: 10px;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}
+
+.menu .menu-item:hover {
+    background-color: rgb(68, 68, 122);
+}
+.menu .menu-item a{
+    text-decoration: none; 
+    color: #fff;
+}
+
+h1{
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.hakkımızda{
+    width: 1000px;
+    margin-left: 300px ;
+}
+
+footer{
+    background-color: #000000d5;
+    color: #fff;
+
+    text-align: center;
+    
+    height: 50px;
+    padding-top:25px ;
+    margin-bottom: 0px;
+    width: 100%;
+   
+}
+
+

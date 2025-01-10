@@ -1,0 +1,35 @@
+Proje Raporu
+
+Proje Adı: Köfteci Yusuf
+
+1. Proje Süreci
+Kişisel web sitesi projesi, üç temel aşamada gerçekleştirilmiştir: planlama, prototipleme ve geliştirme.
+
+2. Planlama
+Bu aşamada projenin kapsamı belirlendi ve gereksinim analizi yapıldı. Kişisel web sitesinin aşağıdaki bölümlerden oluşmasına karar verildi:
+
+Ana Sayfa: Genel bilgilere yer veren giriş bölümü.
+
+Hakkında: Kullanıcıyla ilgili kişisel ve profesyonel bilgileri içeren bölüm.
+
+Projeler: Daha önce yapılmış projeleri tanıtan sayfa.
+
+İletişim: Ziyaretçilerin iletişim kurabileceği bir form ve iletişim bilgileri.
+
+
+
+3. Geliştirme
+
+Geliştirme aşamasında projenin kodlaması gerçekleştirildi. Projede kullanılan teknolojiler:
+
+HTML: Sayfaların yapısal iskeleti oluşturuldu.
+
+CSS: Tasarımlar için görsel stil düzenlemeleri yapıldı. Flexbox ve Grid sistemleri kullanılarak responsive bir düzen sağlandı.
+
+JavaScript: Kullancıya mesaj verildi 
+
+
+Araçlar ve Teknolojiler:
+
+Visual Studio Code: Kodlama için kullanılan metin editörü.
+Google Fonts : Yazı tipi .
